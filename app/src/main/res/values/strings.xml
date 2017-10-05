@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Server Application</string>
+    <string name="parse_server_url">http://mongodb://heroku_8hczlkf5:iv40trvj515u6d9c47dp2q8erh@ds155414.mlab.com:55414/heroku_8hczlkf5</string>
+    <string name="parse_app_id">54321</string>
 </resources>
