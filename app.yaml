@@ -1,9 +1,0 @@
-runtime: nodejs
-vm: true
-
-env_variables:
-  # --REQUIRED--
-  DATABASE_URI: mongodb://heroku_n5khm3lj:bg085qh14np6k43m23a57179r4@ds111895.mlab.com:11895/heroku_n5khm3lj
-  APP_ID: 12345
-  MASTER_KEY: 98765
-  
